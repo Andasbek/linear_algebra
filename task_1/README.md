@@ -25,8 +25,9 @@ Sample Output 1:
 30 36 42
 66 81 96
 102 126 150
-Sample Input 2:
 
+Sample Input 2:
+```
 3
 1 2 1
 3 3 3
@@ -38,6 +39,8 @@ Sample Output 2:
 1666 2222 1666
 3333 4443 3333
 1666 2222 1666
+```
+
 Sample Input 3:
 
 5
