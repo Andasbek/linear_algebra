@@ -42,7 +42,7 @@ Sample Output 2:
 ```
 
 Sample Input 3:
-
+```
 5
 1 2 1 1 2
 3 3 3 3 3
